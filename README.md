@@ -29,7 +29,7 @@ Explore a range of my projects, from e-commerce platforms to art listings and mo
 
 ## YouTube Channel
 
-I also share my coding journey and insights on my YouTube channel. Join me in exploring the world of web development and technology. [Subscribe Now]([https://www.youtube.com/your-channel](https://www.youtube.com/@CoderOmYt))
+I also share my coding journey and insights on my YouTube channel. Join me in exploring the world of web development and technology. [Subscribe Now](https://www.youtube.com/@CoderOmYt)
 
 ## Connect with Me
 
