@@ -1,4 +1,4 @@
-## Hey, I'm CoderOm! 👋 [![](https://visitcount.itsvg.in/api?id=coderomm&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+## Hey, I'm CoderOm! 👋 
 
 ## 💫 About Me:
 <b>🔭 I’m currently working on:</b>
@@ -100,8 +100,15 @@ I love creating content.
 [![Portfolio](https://img.shields.io/badge/See%20my%20Portfolio-164e63.svg?style=for-the-badge&logo=monitor&logoColor=white)](https://coderom.databoltahai.in)
 [![Resume](https://img.shields.io/badge/Download%20my%20Resume-164e63.svg?style=for-the-badge&logo=download&logoColor=white)](https://coderom.databoltahai.in/Home/DownloadResume)
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=coderomm&theme=darkhub)](https://github.com/coderomm/coderomm)
+
+## ✍️ Random Dev Quote
+[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=My%20goal%20is%20centered%20around%20a%20single%20idea:%20bringing%20simplicity%20into%20complexity.)]
+(https://github.com/coderomm/coderomm)
+
+[![](https://visitcount.itsvg.in/api?id=coderomm&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ## Join the Journey
-
 <b>Feel free to explore my repositories, get in touch, or even collaborate on exciting projects. Together, we can code a
 brighter future!</b>
