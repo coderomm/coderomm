@@ -1,4 +1,5 @@
 # Hey, I'm CoderOm! 👋
+[![CoderOm's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderomm)](https://github.com/coderomm/coderomm)
 
 Welcome to my GitHub profile, where code meets creativity and innovation. I'm a passionate developer, currently in the final year of my BCA program, and I thrive on crafting web applications that are both functional and beautiful. With a focus on ASP.NET MVC 5, C#, Ajax, and jQuery, I'm here to make the digital world a better place.
 
