@@ -3,6 +3,7 @@
 ## 💫 About Me:
 <b>🔭 I’m currently working on:</b>
 Learning system-design, Data Structures and Algorithms and Dot Net Core 8.
+
 <b>👯 I’m looking to collaborate on:</b>
 .Net Core 7 and .Net Angular projects
 
@@ -22,7 +23,7 @@ I love creating content.
             alt="LinkedIn Badge" />
     </a>
     <a href="https://www.youtube.com/@Coder_Om">
-        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"
+        <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"
             alt="Youtube Badge" />
     </a>
     <a href="https://www.instagram.com/_1omsharma/">
