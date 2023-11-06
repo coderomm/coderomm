@@ -1,63 +1,113 @@
-# Hey, I'm CoderOm! 👋
+## Hey, I'm CoderOm! 👋
 
-📊 GitHub Stats:
+## 💫 About Me:
+<b>🔭 I’m currently working on:</b>
+Learning system-design, Data Structures and Algorithms and Dot Net Core 8.
+<b>👯 I’m looking to collaborate on:</b>
+.Net Core 7 and .Net Angular projects
+
+<b>🌱 I’m currently learning:</b>
+Java and Flutter.
+
+<b>💬 Ask me about:</b>
+.Net, MVC, C#, JavaScript, Ajax, SQL, Java, and any general software development questions.
+
+<b>⚡ Fun fact:</b>
+I love creating content.
+
+## 🌐 Socials:
+<div id="badges">
+    <a href="https://www.linkedin.com/in/1omsharma/">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"
+            alt="LinkedIn Badge" />
+    </a>
+    <a href="https://www.youtube.com/@Coder_Om">
+        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"
+            alt="Youtube Badge" />
+    </a>
+    <a href="https://www.instagram.com/_1omsharma/">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"
+            alt="Instagram Badge" />
+    </a>
+    <a href="https://twitter.com/1omsharma">
+        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"
+            alt="Twitter Badge" />
+    </a>
+    <a href="mailto:mail.coderom@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-Red?logo=Gmail&logoColor=white" alt="Gmail Badge" />
+    </a>
+</div>
+
+## 💻 Tech Stack:
+### :hammer_and_wrench: Languages and Tools :
+
+<div id="badges">
+    <a href="#!">
+        <img src="https://img.shields.io/badge/.NET-512bd4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".Net" />
+    </a>
+    <a href="#!">
+        <img src="https://img.shields.io/badge/C%23-68217A.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+    </a>
+    <a href="#!">
+        <img src="https://img.shields.io/badge/.NET%20Core-5C2D91.svg?style=for-the-badge&logo=.net&logoColor=white" alt=".Net Core 7" />
+    </a>
+    <a href="#!">
+        <img src="https://img.shields.io/badge/SQL-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
+    </a>
+    <a href="#!">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    </a>
+    <a href="#!">
+        <img src="https://img.shields.io/badge/C-555555.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+    </a>
+    <a href="#!">
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+    </a>
+    <a href="#!">
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    </a>
+    <a href="#!">
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    </a>
+    <a href="#!">
+        <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    </a>
+    <a href="#!">
+        <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+    </a>
+    <a href="#!">
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+    </a>
+    <a href="#!">
+        <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
+    </a>
+    <a href="#!">
+        <img src="https://img.shields.io/badge/MSSQL-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
+    </a>
+</div>
+
+## 📊 GitHub Stats:
+
 [![CoderOm's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderomm&theme=dark&hide_border=false&include_all_commits=true&count_private=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/coderomm/coderomm)
 
-[![CoderOm's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=coderomm&theme=dark&hide_border=false)](https://github.com/coderomm/coderomm)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=coderomm&theme=dark&hide_border=false)](https://github.com/coderomm/coderomm)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderomm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/coderomm/coderomm
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderomm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/coderomm/coderomm)
 
-[![CoderOm's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=coderomm&layout=compact)](https://github.com/coderomm/coderomm))
+[![CoderOm's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=coderomm&layout=compact)](https://github.com/coderomm/coderomm)
 
-🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 [![](https://github-contributor-stats.vercel.app/api?username=coderomm&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/coderomm/coderomm)
 
-[![](https://visitcount.itsvg.in/api?id=coderomm&icon=0&color=0)](https://github.com/coderomm/coderomm)
+[![](https://visitcount.itsvg.in/api?id=coderomm&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
-Welcome to my GitHub profile, where code meets creativity and innovation. I'm a passionate developer, currently in the final year of my BCA program, and I thrive on crafting web applications that are both functional and beautiful. With a focus on ASP.NET MVC 5, C#, Ajax, and jQuery, I'm here to make the digital world a better place.
+## 👩‍💻 Portfolio: [My showcase of code and creativity](https://coderom.databoltahai.in/)
 
-## Skills
-
-- 💻 ASP.NET MVC 5: My playground for building robust web applications.
-- 🌐 C#: The language that powers my coding adventures.
-- 🌟 Ajax & jQuery: Adding that extra touch of interactivity to my projects.
-- 🎲 SQL Database Management (MSSQL): Mastering the art of database management.
-
-## Projects
-
-Explore a range of my projects, from e-commerce platforms to art listings and more. Each project reflects my dedication to creating user-friendly and elegant solutions.
-
-🛍️ [Deepti Pencil Arts](https://deeptiarts.databoltahai.in/): Bringing art to your doorstep.
-
-🏢 [Shree Shanta Synfab LLP](https://shreeshantasynfabllp.databoltahai.in/): Innovating textile management.
-
-🌍 [Places To Go](http://placestogo.spmpltech.com/): Exploring the world, one place at a time.
-
-🏨 [Hotels To Stay](http://placestogo.spmpltech.com/HotelsToStay): Your home away from home.
-
-⚙️ [Ananya Fashion](https://ananyafashionjaipur.com/): Dressing you in style.
-
-🏠 [StudyRooms](#): Finding your perfect space.
-
-👩‍💻 [Portfolio](http://coderom.databoltahai.in/): My showcase of code and creativity.
-
-## YouTube Channel
-
-I also share my coding journey and insights on my YouTube channel. Join me in exploring the world of web development and technology. [Subscribe Now](https://www.youtube.com/@CoderOmYt)
-
-## Connect with Me
-
-Let's chat, collaborate, or simply say hello! You can find me on various platforms:
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/1omsharma/)
-- 🐦 [Twitter](https://twitter.com/1omsharma)
-- 📷 [Instagram](https://www.instagram.com/coder.om)
-- 📧 Email: mail.coderom@gmail.com
+<a href="https://coderom.databoltahai.in/Home/DownloadResume" style="text-decoration: none;">
+    📝 <img src="https://img.shields.io/badge/Download%20my%20resume-164e63.svg?style=for-the-badge&logo=download&logoColor=white" alt="Resume" />
+</a>
 
 ## Join the Journey
 
-Feel free to explore my repositories, get in touch, or even collaborate on exciting projects. Together, we can code a brighter future!
-
-📝 [View My Resume](https://coderom.databoltahai.in/Home/DownloadResume)
-
-Let's code, create, and conquer the digital realm. 🌟
+Feel free to explore my repositories, get in touch, or even collaborate on exciting projects. Together, we can code a
+brighter future!
