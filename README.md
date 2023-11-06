@@ -1,5 +1,18 @@
 # Hey, I'm CoderOm! 👋
-[![CoderOm's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderomm)](https://github.com/coderomm/coderomm)
+
+📊 GitHub Stats:
+[![CoderOm's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderomm&theme=dark&hide_border=false&include_all_commits=true&count_private=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/coderomm/coderomm)
+
+[![CoderOm's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=coderomm&theme=dark&hide_border=false)](https://github.com/coderomm/coderomm)
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderomm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/coderomm/coderomm
+
+[![CoderOm's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=coderomm&layout=compact)](https://github.com/coderomm/coderomm))
+
+🔝 Top Contributed Repo
+[![](https://github-contributor-stats.vercel.app/api?username=coderomm&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/coderomm/coderomm)
+
+[![](https://visitcount.itsvg.in/api?id=coderomm&icon=0&color=0)](https://github.com/coderomm/coderomm)
 
 Welcome to my GitHub profile, where code meets creativity and innovation. I'm a passionate developer, currently in the final year of my BCA program, and I thrive on crafting web applications that are both functional and beautiful. With a focus on ASP.NET MVC 5, C#, Ajax, and jQuery, I'm here to make the digital world a better place.
 
