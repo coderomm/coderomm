@@ -23,7 +23,7 @@ I love creating content.
             alt="LinkedIn Badge" />
     </a>
     <a href="https://www.youtube.com/@Coder_Om">
-        <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"
+        <img src="https://img.shields.io/badge/YouTube-FF0000.svg?logo=youtube&logoColor=white"
             alt="Youtube Badge" />
     </a>
     <a href="https://www.instagram.com/_1omsharma/">
@@ -39,8 +39,7 @@ I love creating content.
     </a>
 </div>
 
-## 💻 Tech Stack:
-### :hammer_and_wrench: Languages and Tools :
+## 💻 Tech Stack and :hammer_and_wrench: Tools
 
 <div id="badges">
     <a href="#!">
@@ -95,20 +94,22 @@ I love creating content.
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderomm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/coderomm/coderomm)
 
-[![CoderOm's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=coderomm&layout=compact)](https://github.com/coderomm/coderomm)
-
 ## 🔝 Top Contributed Repo
 [![](https://github-contributor-stats.vercel.app/api?username=coderomm&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/coderomm/coderomm)
 
 [![](https://visitcount.itsvg.in/api?id=coderomm&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
-## 👩‍💻 Portfolio: [My showcase of code and creativity](https://coderom.databoltahai.in/)
+## 👩‍💻 :
+<a href="https://coderom.databoltahai.in/" style="text-decoration: none;">
+    📝 <img src="https://img.shields.io/badge/See%20my%20portfolio-164e63.svg?style=for-the-badge&logo=download&logoColor=white" alt="Resume" />
+</a>
 
+## 📝 :
 <a href="https://coderom.databoltahai.in/Home/DownloadResume" style="text-decoration: none;">
-    📝 <img src="https://img.shields.io/badge/Download%20my%20resume-164e63.svg?style=for-the-badge&logo=download&logoColor=white" alt="Resume" />
+     <img src="https://img.shields.io/badge/Download%20my%20resume-164e63.svg?style=for-the-badge&logo=download&logoColor=white" alt="Resume" />
 </a>
 
 ## Join the Journey
 
-Feel free to explore my repositories, get in touch, or even collaborate on exciting projects. Together, we can code a
-brighter future!
+<b>Feel free to explore my repositories, get in touch, or even collaborate on exciting projects. Together, we can code a
+brighter future!</b>
