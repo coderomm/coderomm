@@ -1,4 +1,4 @@
-## Hey, I'm CoderOm! 👋
+## Hey, I'm CoderOm! 👋 [![](https://visitcount.itsvg.in/api?id=coderomm&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ## 💫 About Me:
 <b>🔭 I’m currently working on:</b>
@@ -97,17 +97,9 @@ I love creating content.
 ## 🔝 Top Contributed Repo
 [![](https://github-contributor-stats.vercel.app/api?username=coderomm&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/coderomm/coderomm)
 
-[![](https://visitcount.itsvg.in/api?id=coderomm&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+[![Portfolio](https://img.shields.io/badge/See%20my%20Portfolio-164e63.svg?style=for-the-badge&logo=monitor&logoColor=white)](https://coderom.databoltahai.in)
+[![Resume](https://img.shields.io/badge/Download%20my%20Resume-164e63.svg?style=for-the-badge&logo=download&logoColor=white)](https://coderom.databoltahai.in/Home/DownloadResume)
 
-## 👩‍💻 :
-<a href="https://coderom.databoltahai.in/" style="text-decoration: none;">
-    📝 <img src="https://img.shields.io/badge/See%20my%20portfolio-164e63.svg?style=for-the-badge&logo=download&logoColor=white" alt="Resume" />
-</a>
-
-## 📝 :
-<a href="https://coderom.databoltahai.in/Home/DownloadResume" style="text-decoration: none;">
-     <img src="https://img.shields.io/badge/Download%20my%20resume-164e63.svg?style=for-the-badge&logo=download&logoColor=white" alt="Resume" />
-</a>
 
 ## Join the Journey
 
