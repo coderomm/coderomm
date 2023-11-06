@@ -105,7 +105,6 @@ I love creating content.
 
 ## ✍️ Random Dev Quote
 [![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=My%20goal%20is%20centered%20around%20a%20single%20idea:%20bringing%20simplicity%20into%20complexity.)]
-(https://github.com/coderomm/coderomm)
 
 [![](https://visitcount.itsvg.in/api?id=coderomm&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
