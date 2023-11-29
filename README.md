@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 <b>🔭 I’m currently working on:</b>
-Learning system-design, Data Structures and Algorithms and Dot Net Core 8.
+Learning system-design, Data Structures and Algorithms and .Net 8.
 
 <b>👯 I’m looking to collaborate on:</b>
 .Net Core 7 and .Net Angular projects
