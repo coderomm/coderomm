@@ -2,16 +2,16 @@
 
 ## 💫 About Me:
 <b>🔭 I’m currently working on:</b>
-Learning system-design, Data Structures and Algorithms and .Net 8.
+Learning MERN, Data Structures and Algorithms and .Net 8.
 
 <b>👯 I’m looking to collaborate on:</b>
-.Net Core 7 and .Net Angular projects
+.Net and .Net Core projects
 
 <b>🌱 I’m currently learning:</b>
-Java and Flutter.
+Mongodb, Express Js, React, NodeJs.
 
 <b>💬 Ask me about:</b>
-.Net, MVC, C#, JavaScript, Ajax, SQL, Java, and any general software development questions.
+.Net, MVC, C#, JavaScript, Ajax, SQL, and any general software development questions.
 
 <b>⚡ Fun fact:</b>
 I love creating content.
@@ -26,7 +26,7 @@ I love creating content.
         <img src="https://img.shields.io/badge/YouTube-FF0000.svg?logo=youtube&logoColor=white"
             alt="Youtube Badge" />
     </a>
-    <a href="https://www.instagram.com/_1omsharma/">
+    <a href="https://www.instagram.com/coder.om/">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"
             alt="Instagram Badge" />
     </a>
