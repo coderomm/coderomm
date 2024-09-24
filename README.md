@@ -2,19 +2,19 @@
 
 ## 💫 About Me:
 <b>🔭 I’m currently working on:</b>
-Learning MERN, Data Structures and Algorithms and .Net 8.
+MERN Full Stack Dev and Shopify Development.
 
 <b>👯 I’m looking to collaborate on:</b>
-.Net and .Net Core projects
+Full Stack, Web3(Solana) and Shopify projects.
 
 <b>🌱 I’m currently learning:</b>
-Mongodb, Express Js, React, NodeJs.
+NextJS, DevOps, Web3 Solana and Shopify App Development.
 
 <b>💬 Ask me about:</b>
-.Net, MVC, C#, JavaScript, Ajax, SQL, and any general software development questions.
+MERN, MongoDB, Solana, Shopify Customization, .Net, MVC, C#, JavaScript, Ajax, SQL, and any general software development questions.
 
 <b>⚡ Fun fact:</b>
-I love creating content.
+I love creating coding.
 
 ## 🌐 Socials:
 <div id="badges">
