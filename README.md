@@ -1,114 +1,111 @@
-## Hey, I'm CoderOm! 👋 
+## Hey, I'm CoderOm! 👋
 
 ## 💫 About Me:
+
 <b>🔭 I’m currently working on:</b>
-MERN Full Stack Dev and Shopify Development.
+Full Stack Dev (MERN + NextJs) & Shopify Development.
 
 <b>👯 I’m looking to collaborate on:</b>
-Full Stack, Web3(Solana) and Shopify projects.
+NextJs, Web3(Solana) & Shopify projects.
 
 <b>🌱 I’m currently learning:</b>
-NextJS, DevOps, Web3 Solana and Shopify App Development.
+DevOps, Web3 Solana & Shopify App Development.
 
 <b>💬 Ask me about:</b>
-MERN, MongoDB, Solana, Shopify Customization, .Net, MVC, C#, JavaScript, Ajax, SQL, and any general software development questions.
+Shopify Liquid, Shopify Plus & Shopify Stores, TypeScript, JavaScript, NextJs & any general software development questions.
 
 <b>⚡ Fun fact:</b>
-I love creating coding.
+I love coding.
 
-## 🌐 Socials:
-<div id="badges">
-    <a href="https://www.linkedin.com/in/1omsharma/">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"
+## Technologies
+
+<table>
+<tr>
+    <td><strong>Languages</strong></td>
+    <td><strong>Frontend</strong></td>
+</tr>
+<tr>
+    <td style="display: flex; "><img src="https://skillicons.dev/icons?i=js,ts,cs&theme=light">
+    <img style="border-radius: 8px; width: 23%; height: 100%; margin-left: 10px;" src="https://img.shields.io/badge/-95bf47?style=for-the-badge&logo=shopify&logoColor=white"></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=light"></td>
+</tr>
+<tr>
+    <td><strong>Backend & Databases</strong></td>
+    <td><strong>Tools & Platforms</strong></td>
+</tr>
+<tr>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,postgresql,dotnet&theme=light"></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,docker,git,figma,nginx,postman&theme=light"></td>
+</tr>
+</table>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&section=footer&reversal=true&colors=22C55E,D45E1B"/></p>
+
+## Social Handles
+
+<div style="display: flex; justify-content: start; align-items: center; gap: 20px; width: 100%;">
+<a href="https://github.com/coderomm">
+        <img src="https://skillicons.dev/icons?i=github&theme=light" alt="Github" />
+        </a>
+<a href="https://www.linkedin.com/in/1omsharma/">
+        <img src="https://skillicons.dev/icons?i=linkedin&theme=light"
             alt="LinkedIn Badge" />
     </a>
-    <a href="https://www.youtube.com/@Coder_Om">
+    <a href="https://x.com/1omsharma">
+        <img src="https://skillicons.dev/icons?i=twitter&theme=light"
+            alt="Twitter" />
+    </a>
+        <a href="mailto:mail.coderom@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" />
+        </a>
+        <a href="https://discord.com/channels/@coder.om">
+        <img src="https://skillicons.dev/icons?i=discord&theme=light"
+            alt="Discord" />
+    </a>
+        <a href="https://www.instagram.com/coder.om/">
+        <img src="https://skillicons.dev/icons?i=instagram&theme=light"
+            alt="Instagram" />
+    </a>
+        <a href="https://www.youtube.com/@Coder_Om">
         <img src="https://img.shields.io/badge/YouTube-FF0000.svg?logo=youtube&logoColor=white"
-            alt="Youtube Badge" />
-    </a>
-    <a href="https://www.instagram.com/coder.om/">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"
-            alt="Instagram Badge" />
-    </a>
-    <a href="https://twitter.com/1omsharma">
-        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"
-            alt="Twitter Badge" />
-    </a>
-    <a href="mailto:mail.coderom@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-Red?logo=Gmail&logoColor=white" alt="Gmail Badge" />
+            alt="Youtube" />
     </a>
 </div>
+ 
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&section=footer&reversal=true&colors=22C55E,D45E1B"/></p>
 
-## 💻 Tech Stack and :hammer_and_wrench: Tools
+## Important Links
 
-<div id="badges">
-    <a href="#!">
-        <img src="https://img.shields.io/badge/.NET-512bd4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".Net" />
+<div>
+    <a href="https://omsharma.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Full Stack Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="twitter" />
     </a>
-    <a href="#!">
-        <img src="https://img.shields.io/badge/C%23-68217A.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+    <a href="https://shopify-developer.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Shopify Portfolio-95bf47?style=for-the-badge&logo=shopify&logoColor=white" alt="portfolio" />
     </a>
-    <a href="#!">
-        <img src="https://img.shields.io/badge/.NET%20Core-5C2D91.svg?style=for-the-badge&logo=.net&logoColor=white" alt=".Net Core 7" />
+    <a href="https://omsharma.vercel.app/OmSharma_Nov2024.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=doc&logoColor=white" alt="Resume" />
     </a>
-    <a href="#!">
-        <img src="https://img.shields.io/badge/SQL-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
-    </a>
-    <a href="#!">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-    </a>
-    <a href="#!">
-        <img src="https://img.shields.io/badge/C-555555.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-    </a>
-    <a href="#!">
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-    </a>
-    <a href="#!">
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    </a>
-    <a href="#!">
-        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    </a>
-    <a href="#!">
-        <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    </a>
-    <a href="#!">
-        <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
-    </a>
-    <a href="#!">
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
-    </a>
-    <a href="#!">
-        <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
-    </a>
-    <a href="#!">
-        <img src="https://img.shields.io/badge/MSSQL-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
-    </a>
+  </div>
+  
+  <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&section=footer&reversal=true&colors=22C55E,D45E1B"/></p>
+
+## Github Stats
+
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=coderomm&theme=dark&show_icons=true&locale=en&card_width=450&hide_border=true" alt="coderomm" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=coderomm&theme=dark&hide_border=true&border_radius=5&card_width=450" width="49%" alt="streak graph" />
+</div>
+<div style="margin-top: 10px; display: flex; justify-content: space-between; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderomm&theme=dark&show_icons=true&locale=en&card_width=450&hide_border=true" alt="coderomm" width="49%" />
 </div>
 
-## 📊 GitHub Stats:
+## Github Activity
 
-[![CoderOm's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderomm&theme=dark&hide_border=false&include_all_commits=true&count_private=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/coderomm/coderomm)
+<p align="center">
+  <img src="https://github.com/coderomm/coderomm/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</p>
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=coderomm&theme=dark&hide_border=false)](https://github.com/coderomm/coderomm)
+## Github Trophies
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderomm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/coderomm/coderomm)
-
-## 🔝 Top Contributed Repo
-[![](https://github-contributor-stats.vercel.app/api?username=coderomm&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/coderomm/coderomm)
-
-[![Portfolio](https://img.shields.io/badge/See%20my%20Portfolio-164e63.svg?style=for-the-badge&logo=monitor&logoColor=white)](https://coderom.databoltahai.in)
-[![Resume](https://img.shields.io/badge/Download%20my%20Resume-164e63.svg?style=for-the-badge&logo=download&logoColor=white)](https://coderom.databoltahai.in/Home/DownloadResume)
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=coderomm&theme=darkhub)](https://github.com/coderomm/coderomm)
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=My%20goal%20is%20centered%20around%20a%20single%20idea:%20bringing%20simplicity%20into%20complexity)
-
-
-[![](https://visitcount.itsvg.in/api?id=coderomm&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
-
-## Join the Journey
-<b>Feel free to explore my repositories, get in touch, or even collaborate on exciting projects. Together, we can code a
-brighter future!</b>
+![](https://github-profile-trophy.vercel.app/?username=coderomm&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
