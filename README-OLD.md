@@ -46,16 +46,10 @@ I love creating coding.
         <img src="https://img.shields.io/badge/.NET-512bd4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".Net" />
     </a>
     <a href="#!">
-        <img src="https://img.shields.io/badge/C%23-68217A.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-    </a>
-    <a href="#!">
         <img src="https://img.shields.io/badge/.NET%20Core-5C2D91.svg?style=for-the-badge&logo=.net&logoColor=white" alt=".Net Core 7" />
     </a>
     <a href="#!">
         <img src="https://img.shields.io/badge/SQL-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
-    </a>
-    <a href="#!">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
     </a>
     <a href="#!">
         <img src="https://img.shields.io/badge/C-555555.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -100,8 +94,6 @@ I love creating coding.
 [![Portfolio](https://img.shields.io/badge/See%20my%20Portfolio-164e63.svg?style=for-the-badge&logo=monitor&logoColor=white)](https://coderom.databoltahai.in)
 [![Resume](https://img.shields.io/badge/Download%20my%20Resume-164e63.svg?style=for-the-badge&logo=download&logoColor=white)](https://coderom.databoltahai.in/Home/DownloadResume)
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=coderomm&theme=darkhub)](https://github.com/coderomm/coderomm)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=My%20goal%20is%20centered%20around%20a%20single%20idea:%20bringing%20simplicity%20into%20complexity)
