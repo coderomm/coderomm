@@ -6,13 +6,13 @@
 Full Stack Dev (MERN + NextJs) & Shopify Development.
 
 <b>👯 I’m looking to collaborate on:</b>
-NextJs, Web3(Solana) & Shopify projects.
+NextJs, MERN & Shopify projects.
 
 <b>🌱 I’m currently learning:</b>
 DevOps, Web3 Solana & Shopify App Development.
 
 <b>💬 Ask me about:</b>
-Shopify Liquid, Shopify Plus & Shopify Stores, TypeScript, JavaScript, NextJs & any general software development questions.
+Shopify Liquid, Shopify Plus & Shopify Stores, TypeScript, JavaScript, NextJs & any general Web development questions.
 
 <b>⚡ Fun fact:</b>
 I love coding.
