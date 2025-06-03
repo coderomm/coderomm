@@ -1,5 +1,3 @@
-## Hey, I'm CoderOm! 👋
-
 ## Important Links
 
 <div>
