@@ -19,7 +19,7 @@
   <img src="https://streak-stats.demolab.com?user=coderomm&theme=dark&hide_border=true&border_radius=5&card_width=450" width="49%" alt="streak graph" style="49%" style="height: 100%;" />
 </div>
 <div style="margin-top: 10px; display: flex; justify-content: space-between; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderomm&theme=dark&show_icons=true&locale=en&card_width=450&hide_border=true" alt="coderomm" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderomm&theme=dark&show_icons=true&locale=en&card_width=450&hide_border=true&langs_count=10&no-frame=true" alt="coderomm" align="center" />
 </div>
 
 ## Github Activity
