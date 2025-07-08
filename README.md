@@ -7,8 +7,8 @@
     </a>
 </div>
 
-<div class="GStatC1" style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=coderomm&theme=dark&show_icons=true&locale=en&card_width=450&hide_border=true&show=reviews,prs_merged,prs_merged_percentage" alt="coderomm" width="49%" style="height: 100%;" />
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=coderomm&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark&card_width=450&hide_border=true" alt="coderomm" width="49%" style="height: 100%;" />
   <img src="https://streak-stats.demolab.com?user=coderomm&theme=dark&hide_border=true&border_radius=5&card_width=450" width="49%" alt="streak graph" style="49%" style="height: 100%;" />
 </div>
 
